@@ -6,12 +6,18 @@ Investment Opportunities from Stock Market Trends
 This project analyzes stock market trends to identify investment opportunities. Using past stock data, visualizations, and analytics, it helps investors understand future performance potential and make smarter buy/sell decisions. Tools include Excel, MySQL, Power BI, and Tableau to reduce risk and improve profitability.
 
 🛠 Tools Used
-Tool	Purpose
-Excel	Data cleaning, return & PE ratio calculations, summary stats
-MySQL	Querying key insights: stock returns, volumes, price trends
-Power BI	Interactive dashboards: KPI cards, heatmaps, scatterplots
-Tableau	Investor pitch deck with clear storytelling visuals
+
+
+Tool	=> Purpose
+Excel	=>Data cleaning, return & PE ratio calculations, summary stats
+MySQL	=>Querying key insights: stock returns, volumes, price trends
+Power BI	=>Interactive dashboards: KPI cards, heatmaps, scatterplots
+Tableau	=>Investor pitch deck with clear storytelling visuals
+
+
 🔍 My Contributions
+
+
 📈 Excel Analysis
 
 Cleaned 3 months of stock data
