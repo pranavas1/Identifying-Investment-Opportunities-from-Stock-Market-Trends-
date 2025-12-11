@@ -9,6 +9,7 @@ This project analyzes stock market trends to identify investment opportunities. 
 
 
 Tool	=> Purpose
+
 Excel	=>Data cleaning, return & PE ratio calculations, summary stats
 MySQL	=>Querying key insights: stock returns, volumes, price trends
 Power BI	=>Interactive dashboards: KPI cards, heatmaps, scatterplots
