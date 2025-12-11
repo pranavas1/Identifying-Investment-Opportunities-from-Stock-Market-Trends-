@@ -1,4 +1,6 @@
 Investment Opportunities from Stock Market Trends
+
+
 🧠 Project Objective
 
 This project analyzes stock market trends to identify investment opportunities. Using past stock data, visualizations, and analytics, it helps investors understand future performance potential and make smarter buy/sell decisions. Tools include Excel, MySQL, Power BI, and Tableau to reduce risk and improve profitability.
